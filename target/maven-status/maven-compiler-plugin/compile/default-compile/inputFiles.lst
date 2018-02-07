@@ -1,5 +1,5 @@
-/home/joao/Documents/gs-spring-boot-master/complete/src/main/java/hello/connect/message/controller/MessageExample.java
-/home/joao/Documents/gs-spring-boot-master/complete/src/main/java/hello/connect/WebSocketSecurityConfig.java
-/home/joao/Documents/gs-spring-boot-master/complete/src/main/java/hello/HelloController.java
-/home/joao/Documents/gs-spring-boot-master/complete/src/main/java/hello/connect/WebSocketConfig.java
-/home/joao/Documents/gs-spring-boot-master/complete/src/main/java/hello/Application.java
+/home/joao/Projects/Simple-stomp-SpringWebsocket/src/main/java/hello/HelloController.java
+/home/joao/Projects/Simple-stomp-SpringWebsocket/src/main/java/hello/connect/WebSocketConfig.java
+/home/joao/Projects/Simple-stomp-SpringWebsocket/src/main/java/hello/connect/message/controller/MessageExample.java
+/home/joao/Projects/Simple-stomp-SpringWebsocket/src/main/java/hello/Application.java
+/home/joao/Projects/Simple-stomp-SpringWebsocket/src/main/java/hello/connect/WebSocketSecurityConfig.java
